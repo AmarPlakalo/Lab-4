@@ -21,7 +21,13 @@ Streams - Advantage:
 Streams are easy to understand, which means that anyone with some level of experience
 can easily create them.
 
+Promises - Advantage:
 
+The error handling is much better when using promises compared to using callbacks
+
+Promises - Disadvantage:
+
+Promises are slower than callbacks.
 
 Q4:
 
