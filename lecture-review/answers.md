@@ -16,6 +16,13 @@ Callbacks - Disadvantage:
 One disadvantage of callbacks would be that they are hard to read as 
 there are lots of functions and brackets in a relatively small block of code.
 
+Streams - Advantage:
+
+Streams are easy to understand, which means that anyone with some level of experience
+can easily create them.
+
+
+
 Q4:
 
 Q5:
