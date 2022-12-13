@@ -4,6 +4,9 @@ import './App.css';
 function App() {
   return (
     	<div>
+        <div>
+		      <h3 className="heading_for_the_app">Note-Taking App</h3>
+	      </div><br></br>
 
         <div className="AddNoteContainer">
           <div className="AddNote">
