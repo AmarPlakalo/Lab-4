@@ -1,6 +1,13 @@
-Q1:
+Q1: 
+
+Props is just the shorter version of the word "properties". The role of props is to send data between components in reactjs.
+
+State refers to an object that can allow components to create and manage their own data.
+
 
 Q2:
+
+A functor is used to map from one category to another.
 
 Q3:
 
