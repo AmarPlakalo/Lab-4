@@ -38,4 +38,12 @@ Promises are slower than callbacks.
 
 Q4:
 
+CSS Box Model refers to rectangular boxes, which include their padding and margin, that are created for elements. Each box consists of an area where the content is located, which can be something like images or text. This can then be surrounded by padding, margins and borders.
+
+To space out DOM elements, you can use padding which is used in the css box model. Examples of padding would be :
+- padding-top
+- padding-bottom
+- padding-left
+- padding-right
+
 Q5:
