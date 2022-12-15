@@ -7,7 +7,7 @@ State refers to an object that can allow components to create and manage their o
 
 Q2:
 
-A functor is used to map from one category to another.
+A functor is used to map from one category to another. An example of a functor would be an array in JavaScript.
 
 Q3:
 
