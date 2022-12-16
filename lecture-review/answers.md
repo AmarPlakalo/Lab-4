@@ -47,3 +47,5 @@ To space out DOM elements, you can use padding which is used in the css box mode
 - padding-right
 
 Q5:
+
+In terms of how the browser loads the page, one of the first things that it does is load the HTML and CSS, as well as the JavaScript. This will create a page that has content on the screen (HTML), as well as a specific style for the content (CSS) and then the interactive elements (JavaScript).
